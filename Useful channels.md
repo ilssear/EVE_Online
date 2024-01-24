@@ -5,9 +5,18 @@
 ```
 - EVE Trade Hubs
 ```
-  <url=showinfo:1373//2121635418>Numbers410X</url>  <url=joinChannel:player_06dacc4f808c11e999fa9abe94f5a39b>EVE Trade Hubs</url>
+  <url=joinChannel:player_06dacc4f808c11e999fa9abe94f5a39b>EVE Trade Hubs</url>
 ```
 - EVE Overviews
 ```
-  <url=joinChannel:player_8768978f48fb11e8af0e9abe94f5a43f>EVE Overviews</url>  <url=showinfo:1373//2122017383>ilssear secundus</url>
+  <url=joinChannel:player_8768978f48fb11e8af0e9abe94f5a43f>EVE Overviews</url>
 ```
+- Overview Encyclopedia
+```
+  <url="joinChannel:player_21aa6f80c47c11edb3bb00109bd0fda8">Overview Encyclopedia</url>
+```
+- Fittings Encyclopedia
+```
+<a href="joinChannel:player_508143c0989211eea5ce00109bd0fa48"> Fittings Encyclopedia</a></font>
+```
+- 
