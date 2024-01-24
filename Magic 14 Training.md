@@ -1,5 +1,10 @@
 ### Magic 14 Training plan
 Trains all basic skills up to level 3
+
+Magic 14 Level 3 Training Plan
+- Create a personal plan and add the list to this new plan
+- Apply the plan to your skill list training queue
+
 ```
 CPU Management 1
 Power Grid Management 1
