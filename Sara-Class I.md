@@ -1,3 +1,4 @@
+```
 [ 2024.01.27 04:36:55 ] ilssear > EUNI - FD Explo Hero
 [ 2024.01.27 04:37:14 ] ilssear > Today I learnt how to get one of these contracts from the Quad
 [ 2024.01.27 04:37:18 ] Sara Seraph > hello o/
@@ -371,3 +372,4 @@ Sara Seraph > it could... but I do not recomend it at this time...
 ilssear > got it
 Sara Seraph > paying attention... and being fast to leave.. keeps you alive.
 ilssear > You are amazing, thanks so much for your time
+```
